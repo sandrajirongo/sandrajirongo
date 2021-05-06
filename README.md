@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @sandrajirongo
 - 👀 I’m interested in data infrastructure
-- 🌱 I’m currently learning solidity & ethereum
-- 💞️ I’m looking to collaborate on any interesting blockchain projects
-- 📫 How to reach me linkedin.com/sandra-jirongo
+- 📫 How to reach me @sandra.jirongo on slack & email
 
 <!---
 sandrajirongo/sandrajirongo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
