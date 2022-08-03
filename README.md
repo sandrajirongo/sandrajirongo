@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sandrajirongo
-- 👀 I’m interested in data infrastructure
 - 📫 How to reach me @sandra.jirongo on slack & email
 
 <!---
